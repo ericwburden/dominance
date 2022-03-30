@@ -1,0 +1,13 @@
+[package]
+name = "dominance"
+version = "0.1.0"
+authors = ["Eric Burden <eric@ericburden.dev>"]
+description = "A CLI tool for testing DOM elements in HTML."
+license = "MIT"
+edition = "2021"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
